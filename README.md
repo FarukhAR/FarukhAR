@@ -15,7 +15,7 @@
   <span>Azure-900</span>
 </div>
 <div style="text=align: center;">
-  <img src="Images/AWS.png" alt="AWS Cloud Fundamentals" width="25px">
+  <img src="Images/AWS.jpg" alt="AWS Cloud Fundamentals" width="25px">
   <span>AWS Cloud Fundamentals</span>
 </div>
 
