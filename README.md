@@ -2,8 +2,17 @@
 <h2>💻🔒 Cyber Security Projects</h2>
 
 <h2>📜 Certifications</h2>
-<a>Google</a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/768px-Google_%22G%22_logo.svg.png" alt=" Google Cyber Security" width="22px"/>
+<div style="text-align: center;">
+  <img src="URL_FOR_GOOGLE_LOGO" alt="Google Cyber Security" width="100px">
+  <span>Google Cyber Security</span>
+  <img src="URL_FOR_COMPTIA_APLUS_LOGO" alt="CompTIA A+" width="100px">
+  <span>A+</span>
+  <img src="URL_FOR_AZURE_900_LOGO" alt="Azure-900" width="100px">
+  <span>Azure-900</span>
+  <img src="URL_FOR_AWS_LOGO" alt="AWS Cloud Fundamentals" width="100px">
+  <span>AWS Cloud Fundamentals</span>
+</div>
+
 
 <h2> Connect with me: </h2>
 
