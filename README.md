@@ -3,13 +3,13 @@
 
 <h2>📜 Certifications</h2>
 <div style="text-align: center;">
-  <img src="URL_FOR_GOOGLE_LOGO" alt="Google Cyber Security" width="100px">
+  <img src="https://github.com/FarukhAR/FarukhAR/blob/main/Images/Picture1.png?raw=true" alt="Google Cyber Security" width="100px">
   <span>Google Cyber Security</span>
-  <img src="URL_FOR_COMPTIA_APLUS_LOGO" alt="CompTIA A+" width="100px">
+  <img src="https://github.com/FarukhAR/FarukhAR/blob/main/Images/Picture2.png?raw=true" alt="CompTIA A+" width="100px">
   <span>A+</span>
-  <img src="URL_FOR_AZURE_900_LOGO" alt="Azure-900" width="100px">
+  <img src="https://github.com/FarukhAR/FarukhAR/blob/main/Images/Picture3.png?raw=true" alt="Azure-900" width="100px">
   <span>Azure-900</span>
-  <img src="URL_FOR_AWS_LOGO" alt="AWS Cloud Fundamentals" width="100px">
+  <img src="https://github.com/FarukhAR/FarukhAR/blob/main/Images/Picture4.png?raw=true" alt="AWS Cloud Fundamentals" width="100px">
   <span>AWS Cloud Fundamentals</span>
 </div>
 
